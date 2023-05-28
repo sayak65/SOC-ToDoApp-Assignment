@@ -1,0 +1,5 @@
+sqlite3
+datetime
+tkinter
+plyer==2.1.0
+tkcalendar==1.5.0
